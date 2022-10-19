@@ -1,7 +1,0 @@
-git+https://github.com/NimaBoscarino/AOT-GAN-for-Inpainting.git
-streamlit_drawable_canvas
-opencv-python
-torch
-torchvision
-pillow
-transformers
